@@ -1,0 +1,14 @@
+/home/sut/Documents/dotNetExercise/bin/Debug/net8.0/dotNetExercise
+/home/sut/Documents/dotNetExercise/bin/Debug/net8.0/dotNetExercise.deps.json
+/home/sut/Documents/dotNetExercise/bin/Debug/net8.0/dotNetExercise.runtimeconfig.json
+/home/sut/Documents/dotNetExercise/bin/Debug/net8.0/dotNetExercise.dll
+/home/sut/Documents/dotNetExercise/bin/Debug/net8.0/dotNetExercise.pdb
+/home/sut/Documents/dotNetExercise/obj/Debug/net8.0/dotNetExercise.GeneratedMSBuildEditorConfig.editorconfig
+/home/sut/Documents/dotNetExercise/obj/Debug/net8.0/dotNetExercise.AssemblyInfoInputs.cache
+/home/sut/Documents/dotNetExercise/obj/Debug/net8.0/dotNetExercise.AssemblyInfo.cs
+/home/sut/Documents/dotNetExercise/obj/Debug/net8.0/dotNetExercise.csproj.CoreCompileInputs.cache
+/home/sut/Documents/dotNetExercise/obj/Debug/net8.0/dotNetExercise.dll
+/home/sut/Documents/dotNetExercise/obj/Debug/net8.0/refint/dotNetExercise.dll
+/home/sut/Documents/dotNetExercise/obj/Debug/net8.0/dotNetExercise.pdb
+/home/sut/Documents/dotNetExercise/obj/Debug/net8.0/dotNetExercise.genruntimeconfig.cache
+/home/sut/Documents/dotNetExercise/obj/Debug/net8.0/ref/dotNetExercise.dll
